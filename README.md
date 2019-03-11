@@ -2,7 +2,9 @@
 ###### Based on course [Machine Learning A-Z](https://www.udemy.com/machinelearning/)
 
 ## Part 1 - Data Preprocessing
-[Data Preprocessing Template](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%201%20-%20Data%20Preprocessing/data_preprocessing_template.py)
+#### Data Preprocessing explanation: [photo](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%201%20-%20Data%20Preprocessing/data_preprocessing.jpg), [videos](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683408)
+
+[Code Template](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%201%20-%20Data%20Preprocessing/data_preprocessing_template.py)
 
 
 
