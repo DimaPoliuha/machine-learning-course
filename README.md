@@ -38,3 +38,63 @@
 
 ### Random Forest Regression
 [Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%202%20-%20Regression/Random%20Forest%20Regression/random_forest_regression.py)
+
+
+
+## Part 3 - Classification
+[Classification code template](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/classification_template.py)
+
+[Pros and cons of Classification Models](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/Classification-Pros-Cons.pdf)
+
+
+### Logistic Regression
+[Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/Logistic%20Regression/logistic_regression.py)
+
+
+### K-Nearest Neighbors (K-NN)
+[Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/K-Nearest%20Neighbors%20(K-NN)/knn.py)
+
+
+### Support Vector Machine (SVM)
+[Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/Support%20Vector%20Machine%20(SVM)/svm.py)
+
+
+### Kernel SVM
+[Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/Kernel%20SVM/kernel_svm.py)
+
+
+### Naive Bayes
+[Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/Naive%20Bayes/naive_bayes.py)
+
+
+### Decision Tree Classification
+[Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/Decision%20Tree%20Classification/decision_tree_classification.py)
+
+
+### Random Forest Classification
+[Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/Random%20Forest%20Classification/random_forest_classification.py)
+
+
+
+## Part 4 - Clustering
+[Pros and cons of Clustering Models](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%204%20-%20Clustering/Clustering-Pros-Cons.pdf)
+
+
+### K-Means Clustering
+[Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%204%20-%20Clustering/K-Means%20Clustering/kmeans.py)
+
+
+### Hierarchical Clustering
+[Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%204%20-%20Clustering/Hierarchical%20Clustering/hc.py)
+
+
+
+## Part 5 - Association Rule Learning
+
+
+### Apriori
+[Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%205%20-%20Association%20Rule%20Learning/Apriori/apriori.py)
+
+
+### Eclat
+[Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%205%20-%20Association%20Rule%20Learning/Eclat/eclat.py)
