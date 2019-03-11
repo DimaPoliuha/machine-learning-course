@@ -10,7 +10,7 @@ dataset = pd.read_csv('50_Startups.csv')
 X = dataset.iloc[:, :-1].values
 y = dataset.iloc[:, 4].values
 
-# eEcoding the independant variable
+# Encoding the independant variable
 from sklearn.preprocessing import LabelEncoder, OneHotEncoder
 label_encoder_X = LabelEncoder()
 X[:, 3] = label_encoder_X.fit_transform(X[:, 3])
