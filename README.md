@@ -4,7 +4,7 @@
 ## Part 1 - Data Preprocessing
 #### Data Preprocessing explanation: [photo](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%201%20-%20Data%20Preprocessing/data_preprocessing.jpg), [videos](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683408)
 
-Data Preprocessing Template [code](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%201%20-%20Data%20Preprocessing/data_preprocessing_template.py)
+[Code Template](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%201%20-%20Data%20Preprocessing/data_preprocessing_template.py)
 
 
 
