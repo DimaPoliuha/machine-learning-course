@@ -11,4 +11,5 @@
 
 ## Multiple Linear Regression
 [Code example (Backward Elimination)](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%202%20-%20Regression/Multiple%20Linear%20Regression/multiple_linear_regression.py)
+
 [Step-by-step blueprint for building Multiple Linear Regression models (All-in, Backward Elimination, Forward selection, Bidirectional Elimination, Score Comparison)](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%202%20-%20Regression/Multiple%20Linear%20Regression/Step-by-step-Blueprints-For-Building-Models.pdf)
