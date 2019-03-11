@@ -62,6 +62,8 @@
 
 [Pros and cons of Classification Models](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/Classification-Pros-Cons.pdf)
 
+Evaluating Classification Models Performance [video](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5773378)
+
 
 ### Logistic Regression
 #### Logistic Regression explanation: [photo](https://github.com/DmitryPoliuha/ml-course/tree/master/Part%203%20-%20Classification/Logistic%20Regression), [video](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6270024)
@@ -76,23 +78,32 @@
 
 
 ### Support Vector Machine (SVM)
+#### Support Vector Machine (SVM) explanation: [photo](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/Support%20Vector%20Machine%20(SVM)/svm.jpg), [video](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714406)
 
 [Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/Support%20Vector%20Machine%20(SVM)/svm.py)
 
 
 ### Kernel SVM
+#### Kernel SVM explanation: [video](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6113144)
+
 [Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/Kernel%20SVM/kernel_svm.py)
 
 
 ### Naive Bayes
+#### Naive Bayes explanation: [video](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5732738)
+
 [Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/Naive%20Bayes/naive_bayes.py)
 
 
 ### Decision Tree Classification
+#### Decision Tree Classification explanation: [photo](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/Decision%20Tree%20Classification/decision-tree.jpg), [video](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714410)
+
 [Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/Decision%20Tree%20Classification/decision_tree_classification.py)
 
 
 ### Random Forest Classification
+#### Random Forest Classification explanation: [photo](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/Random%20Forest%20Classification/random-forest.jpg), [video](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714412)
+
 [Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/Random%20Forest%20Classification/random_forest_classification.py)
 
 
@@ -102,10 +113,14 @@
 
 
 ### K-Means Clustering
+#### K-Means Clustering explanation: [photo](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%204%20-%20Clustering/K-Means%20Clustering/k-means.jpg), [videos](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714416)
+
 [Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%204%20-%20Clustering/K-Means%20Clustering/kmeans.py)
 
 
 ### Hierarchical Clustering
+#### Hierarchical Clustering explanation: [photo](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%204%20-%20Clustering/Hierarchical%20Clustering/hierarchical-clustering.jpg), [videos](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714428)
+
 [Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%204%20-%20Clustering/Hierarchical%20Clustering/hc.py)
 
 
@@ -114,8 +129,12 @@
 
 
 ### Apriori
+#### Apriori explanation: [video](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6455322)
+
 [Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%205%20-%20Association%20Rule%20Learning/Apriori/apriori.py)
 
 
 ### Eclat
+#### Eclat explanation: [video](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6455326)
+
 [Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%205%20-%20Association%20Rule%20Learning/Eclat/eclat.py)
