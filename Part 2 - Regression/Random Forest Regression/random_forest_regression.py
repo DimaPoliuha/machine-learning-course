@@ -10,25 +10,15 @@ dataset = pd.read_csv('Position_Salaries.csv')
 X = dataset.iloc[:, 1:-1].values
 y = dataset.iloc[:, 2].values
 
-#splitting the dataset into training set and test set
-#from sklearn.model_selection import train_test_split
-#X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
-
-##feature scaling
-#from sklearn.preprocessing import StandardScaler
-#sc_X = StandardScaler()
-#X_train = sc_X.fit_transform(X_train)
-#X_test = sc_X.transform(X_test)
-
-#fitting random forest regression to the dataset
+# Fitting random forest regression to the dataset
 from sklearn.ensemble import RandomForestRegressor
 regressor = RandomForestRegressor(n_estimators=300, random_state=0)
 regressor.fit(X, y)
 
-#predicting a new result with regression 
+# Predicting a new result with regression 
 y_pred = regressor.predict(np.array(6.5).reshape(1, -1))
 
-#visualising the regresesion model results (for higher resolution and smoother curve)
+# Visualising the regresesion model results (for higher resolution and smoother curve)
 X_grid = np.arange(min(X), max(X), 0.01)
 X_grid = X_grid.reshape((len(X_grid), 1))
 plt.scatter(X, y, color='red')
