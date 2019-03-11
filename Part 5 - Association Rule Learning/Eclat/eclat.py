@@ -11,7 +11,7 @@ transactions = []
 for i in range(7501):
     transactions.append(list(str(dataset.values[i,j]) for j in range(20)))
     
-# Training Apriori on the dataset
+# Training Eclat on the dataset
 from apyori import apriori
 #min_support = 3 * 7 / 7500 # The product that people buy 3 days per day
 rules = apriori(transactions, min_support = 0.003, min_confidence = 0, min_lift = 0, min_length=2)
