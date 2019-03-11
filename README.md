@@ -1,5 +1,6 @@
 # Machine Learning Course
 ###### Based on course [Machine Learning A-Z](https://www.udemy.com/machinelearning/)
+All you need to know about Machine Learning [link](https://vas3k.ru/blog/machine_learning/)
 
 ## Part 1 - Data Preprocessing
 #### Data Preprocessing explanation: [photo](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%201%20-%20Data%20Preprocessing/data_preprocessing.jpg), [videos](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683408)
