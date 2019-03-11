@@ -9,7 +9,7 @@
 
 
 ## Part 2 - Regression
-[Regression code template](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%202%20-%20Regression/regression_template.py)
+[Code Template](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%202%20-%20Regression/regression_template.py)
 
 [Pros and cons of Regression Models](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%202%20-%20Regression/Regression-Pros-Cons.pdf)
 
@@ -17,28 +17,42 @@
 
 
 ### Simple Linear Regression
+#### Simple Linear Regression explanation: [photo](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%202%20-%20Regression/Simple%20Linear%20Regression/simple-linear-regression.jpg), [videos](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5795729)
+
 [Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%202%20-%20Regression/Simple%20Linear%20Regression/simple_linear_regression.py)
 
 
 ### Multiple Linear Regression
+#### Multiple Linear Regression explanation: [photo](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%202%20-%20Regression/Multiple%20Linear%20Regression/multiple-linear-regression.jpg), [videos](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5795731)
+
 [Code example (Backward Elimination)](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%202%20-%20Regression/Multiple%20Linear%20Regression/multiple_linear_regression.py)
+
+[What is P-value](https://www.wikihow.com/Calculate-P-Value)
 
 [Step-by-step blueprint for building Multiple Linear Regression models (All-in, Backward Elimination, Forward selection, Bidirectional Elimination, Score Comparison)](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%202%20-%20Regression/Multiple%20Linear%20Regression/Step-by-step-Blueprints-For-Building-Models.pdf)
 
 
 ### Polynomial Regression
+#### Polynomial Regression explanation: [video](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5732728)
+
 [Code example (comparison with Linear Regression)](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%202%20-%20Regression/Polynomial%20Regression/polynomial_regression.py)
 
 
 ### Support Vector Regression (SVR)
+#### Support Vector Regression (SVR) explanation: [video](https://www.udemy.com/machinelearning/learn/v4/t/lecture/10459548)
+
 [Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%202%20-%20Regression/Support%20Vector%20Regression%20(SVR)/svr.py)
 
 
 ### Decision Tree Regression
+#### Decision Tree Regression explanation: [video](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5732730)
+
 [Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%202%20-%20Regression/Decision%20Tree%20Regression/decision_tree_regression.py)
 
 
 ### Random Forest Regression
+#### Random Forest Regression explanation: [photo](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%202%20-%20Regression/Random%20Forest%20Regression/random-forest.jpg), [video](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5732732)
+
 [Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%202%20-%20Regression/Random%20Forest%20Regression/random_forest_regression.py)
 
 
@@ -50,14 +64,19 @@
 
 
 ### Logistic Regression
+#### Logistic Regression explanation: [photo](https://github.com/DmitryPoliuha/ml-course/tree/master/Part%203%20-%20Classification/Logistic%20Regression), [video](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6270024)
+
 [Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/Logistic%20Regression/logistic_regression.py)
 
 
 ### K-Nearest Neighbors (K-NN)
+#### K-Nearest Neighbors (K-NN) explanation: [photo](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/K-Nearest%20Neighbors%20(K-NN)/knn.jpg), [video](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714404)
+
 [Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/K-Nearest%20Neighbors%20(K-NN)/knn.py)
 
 
 ### Support Vector Machine (SVM)
+
 [Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/Support%20Vector%20Machine%20(SVM)/svm.py)
 
 
