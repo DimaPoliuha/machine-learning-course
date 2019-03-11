@@ -9,7 +9,7 @@ import pandas as pd
 dataset = pd.read_csv('Mall_Customers.csv')
 X = dataset.iloc[:, 3:].values
 
-#using the dendrogram to find the optimal number of clusters
+# Using the dendrogram to find the optimal number of clusters
 import scipy.cluster.hierarchy as sch
 dendrogram = sch.dendrogram(sch.linkage(X, method='ward'))
 plt.title('dendrogram')
@@ -17,12 +17,12 @@ plt.xlabel('customers')
 plt.ylabel('euclidean distance')
 plt.show()
 
-#fitting hierarchical clustering to the dataset
+# Fitting hierarchical clustering to the dataset
 from sklearn.cluster import AgglomerativeClustering
 hc = AgglomerativeClustering(n_clusters=5, affinity='euclidean', linkage='ward')
 y_hc = hc.fit_predict(X)
 
-#visualising the clusters
+# Visualising the clusters
 plt.scatter(X[y_hc == 0, 0], X[y_hc == 0, 1], s=30, c='red', label='careful')
 plt.scatter(X[y_hc == 1, 0], X[y_hc == 1, 1], s=30, c='blue', label='standart')
 plt.scatter(X[y_hc == 2, 0], X[y_hc == 2, 1], s=30, c='green', label='target')
