@@ -10,7 +10,7 @@ dataset = pd.read_csv('Position_Salaries.csv')
 X = dataset.iloc[:, 1:2].values
 y = dataset.iloc[:, 2].values
 
-#feature scaling
+# Feature scaling
 from sklearn.preprocessing import StandardScaler
 sc_X = StandardScaler()
 sc_y = StandardScaler()
@@ -24,8 +24,8 @@ regressor.fit(X, y)
 
 # Predicting a new result
 y_pred = sc_y.inverse_transform(regressor.predict(sc_X.transform(np.array([[6.5]]))))
-#or
-#y_pred = regressor.predict(sc_X.transform(np.array(6.5).reshape(1, -1)))
+# or
+# y_pred = regressor.predict(sc_X.transform(np.array(6.5).reshape(1, -1)))
 
 # Visualising the SVR results
 plt.scatter(X, y, color = 'red')
