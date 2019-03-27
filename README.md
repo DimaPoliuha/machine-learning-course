@@ -3,138 +3,80 @@
 All you need to know about Machine Learning [link](https://vas3k.ru/blog/machine_learning/)
 
 # Part 1 - Data Preprocessing
-
-## [Data Preprocessiong](https://github.com/DmitryPoliuha/machine-learning-course/blob/master/Part%201%20-%20Data%20Preprocessing/Data%20Preprocessing%20Template.ipynb)
+### [Data Preprocessing](https://github.com/DmitryPoliuha/machine-learning-course/blob/master/Part%201%20-%20Data%20Preprocessing/Data%20Preprocessing%20Template.ipynb)
 
 
 
 # Part 2 - Regression
-[Code Template](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%202%20-%20Regression/regression_template.py)
-
-[Pros and cons of Regression Models](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%202%20-%20Regression/Regression-Pros-Cons.pdf)
-
-[Regularization Methods (The problem of Overfitting)](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%202%20-%20Regression/Regularization-Methods.pdf)
+### [Regression](https://github.com/DmitryPoliuha/machine-learning-course/blob/master/Part%202%20-%20Regression/Regression%20Template.ipynb)
 
 
-## Simple Linear Regression
-#### Explanation: [photo](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%202%20-%20Regression/Simple%20Linear%20Regression/simple-linear-regression.jpg), [videos](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5795729)
-
-[Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%202%20-%20Regression/Simple%20Linear%20Regression/simple_linear_regression.py)
+### [Simple Linear Regression](https://github.com/DmitryPoliuha/machine-learning-course/blob/master/Part%202%20-%20Regression/Simple%20Linear%20Regression/Simple%20Linear%20Regression.ipynb)
 
 
-## Multiple Linear Regression
-#### Explanation: [photo](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%202%20-%20Regression/Multiple%20Linear%20Regression/multiple-linear-regression.jpg), [videos](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5795731)
-
-[Code example (Backward Elimination)](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%202%20-%20Regression/Multiple%20Linear%20Regression/multiple_linear_regression.py)
-
-[What is P-value](https://www.wikihow.com/Calculate-P-Value)
-
-[Step-by-step blueprint for building Multiple Linear Regression models (All-in, Backward Elimination, Forward selection, Bidirectional Elimination, Score Comparison)](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%202%20-%20Regression/Multiple%20Linear%20Regression/Step-by-step-Blueprints-For-Building-Models.pdf)
+### [Multiple Linear Regression](https://github.com/DmitryPoliuha/machine-learning-course/blob/master/Part%202%20-%20Regression/Multiple%20Linear%20Regression/Multiple%20Linear%20Regression.ipynb)
 
 
-## Polynomial Regression
-#### Explanation: [video](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5732728)
-
-[Code example (comparison with Linear Regression)](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%202%20-%20Regression/Polynomial%20Regression/polynomial_regression.py)
+### [Polynomial Regression](https://github.com/DmitryPoliuha/machine-learning-course/blob/master/Part%202%20-%20Regression/Polynomial%20Regression/Polynomial%20Regression.ipynb)
 
 
-## Support Vector Regression (SVR)
-#### Explanation: [video](https://www.udemy.com/machinelearning/learn/v4/t/lecture/10459548)
-
-[Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%202%20-%20Regression/Support%20Vector%20Regression%20(SVR)/svr.py)
+### [Support Vector Regression (SVR)](https://github.com/DmitryPoliuha/machine-learning-course/blob/master/Part%202%20-%20Regression/Support%20Vector%20Regression%20(SVR)/Support%20Vector%20Regression%20(SVR).ipynb)
 
 
-## Decision Tree Regression
-#### Explanation: [video](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5732730)
-
-[Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%202%20-%20Regression/Decision%20Tree%20Regression/decision_tree_regression.py)
+### [Decision Tree Regression](https://github.com/DmitryPoliuha/machine-learning-course/blob/master/Part%202%20-%20Regression/Decision%20Tree%20Regression/Decision%20Tree%20Regression.ipynb)
 
 
-## Random Forest Regression
-#### Explanation: [photo](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%202%20-%20Regression/Random%20Forest%20Regression/random-forest.jpg), [video](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5732732)
-
-[Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%202%20-%20Regression/Random%20Forest%20Regression/random_forest_regression.py)
+### [Random Forest Regression](https://github.com/DmitryPoliuha/machine-learning-course/blob/master/Part%202%20-%20Regression/Random%20Forest%20Regression/Random%20Forest%20Regression.ipynb)
 
 
 
 # Part 3 - Classification
-[Classification code template](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/classification_template.py)
-
-[Pros and cons of Classification Models](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/Classification-Pros-Cons.pdf)
-
-Evaluating Classification Models Performance [video](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5773378)
+### [Classification](https://github.com/DmitryPoliuha/machine-learning-course/blob/master/Part%203%20-%20Classification/Classification%20Template.ipynb)
 
 
-## Logistic Regression
-#### Explanation: [photo](https://github.com/DmitryPoliuha/ml-course/tree/master/Part%203%20-%20Classification/Logistic%20Regression), [video](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6270024)
-
-[Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/Logistic%20Regression/logistic_regression.py)
+### [Logistic Regression](https://github.com/DmitryPoliuha/machine-learning-course/blob/master/Part%203%20-%20Classification/Logistic%20Regression/Logistic%20Regression%20Classification.ipynb)
 
 
-## K-Nearest Neighbors (K-NN)
-#### Explanation: [photo](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/K-Nearest%20Neighbors%20(K-NN)/knn.jpg), [video](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714404)
-
-[Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/K-Nearest%20Neighbors%20(K-NN)/knn.py)
+### [K-Nearest Neighbors (K-NN)](https://github.com/DmitryPoliuha/machine-learning-course/blob/master/Part%203%20-%20Classification/K-Nearest%20Neighbors%20(K-NN)/K-Nearest%20Neighbours%20(KNN).ipynb)
 
 
-## Support Vector Machine (SVM)
-#### Explanation: [photo](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/Support%20Vector%20Machine%20(SVM)/svm.jpg), [video](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714406)
-
-[Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/Support%20Vector%20Machine%20(SVM)/svm.py)
+### [Support Vector Machine (SVM)](https://github.com/DmitryPoliuha/machine-learning-course/blob/master/Part%203%20-%20Classification/Support%20Vector%20Machine%20(SVM)/Support%20Vector%20Machine%20Classification%20(SVM).ipynb)
 
 
-## Kernel SVM
-#### Explanation: [video](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6113144)
-
-[Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/Kernel%20SVM/kernel_svm.py)
+### [Kernel SVM](https://github.com/DmitryPoliuha/machine-learning-course/blob/master/Part%203%20-%20Classification/Kernel%20SVM/Kernel%20SVM.ipynb)
 
 
-## Naive Bayes
-#### Explanation: [video](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5732738)
-
-[Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/Naive%20Bayes/naive_bayes.py)
+### [Naive Bayes](https://github.com/DmitryPoliuha/machine-learning-course/blob/master/Part%203%20-%20Classification/Naive%20Bayes/Naive%20Bayes.ipynb)
 
 
-## Decision Tree Classification
-#### Explanation: [photo](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/Decision%20Tree%20Classification/decision-tree.jpg), [video](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714410)
-
-[Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/Decision%20Tree%20Classification/decision_tree_classification.py)
+### [Decision Tree Classification](https://github.com/DmitryPoliuha/machine-learning-course/blob/master/Part%203%20-%20Classification/Decision%20Tree%20Classification/Decision%20Tree%20Classification.ipynb)
 
 
-## Random Forest Classification
-#### Explanation: [photo](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/Random%20Forest%20Classification/random-forest.jpg), [video](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714412)
-
-[Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%203%20-%20Classification/Random%20Forest%20Classification/random_forest_classification.py)
+### [Random Forest Classification](https://github.com/DmitryPoliuha/machine-learning-course/blob/master/Part%203%20-%20Classification/Random%20Forest%20Classification/Random%20Forest%20Classification.ipynb)
 
 
 
 # Part 4 - Clustering
-[Pros and cons of Clustering Models](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%204%20-%20Clustering/Clustering-Pros-Cons.pdf)
+
+### [K-Means Clustering](https://github.com/DmitryPoliuha/machine-learning-course/blob/master/Part%204%20-%20Clustering/K-Means%20Clustering/K-Means%20Clustering.ipynb)
 
 
-## K-Means Clustering
-#### Explanation: [photo](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%204%20-%20Clustering/K-Means%20Clustering/k-means.jpg), [videos](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714416)
-
-[Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%204%20-%20Clustering/K-Means%20Clustering/kmeans.py)
-
-
-## Hierarchical Clustering
-#### Explanation: [photo](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%204%20-%20Clustering/Hierarchical%20Clustering/hierarchical-clustering.jpg), [videos](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714428)
-
-[Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%204%20-%20Clustering/Hierarchical%20Clustering/hc.py)
+### [Hierarchical Clustering](https://github.com/DmitryPoliuha/machine-learning-course/blob/master/Part%204%20-%20Clustering/Hierarchical%20Clustering/Hierarchical%20Clustering.ipynb)
 
 
 
 # Part 5 - Association Rule Learning
 
-
-## Apriori
-#### Explanation: [video](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6455322)
-
-[Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%205%20-%20Association%20Rule%20Learning/Apriori/apriori.py)
+### [Apriori](https://github.com/DmitryPoliuha/machine-learning-course/blob/master/Part%205%20-%20Association%20Rule%20Learning/Apriori/Apriori.ipynb)
 
 
-## Eclat
-#### Explanation: [video](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6455326)
+### [Eclat](https://github.com/DmitryPoliuha/machine-learning-course/blob/master/Part%205%20-%20Association%20Rule%20Learning/Eclat/Eclat.ipynb)
 
-[Code example](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%205%20-%20Association%20Rule%20Learning/Eclat/eclat.py)
+
+
+# Part 6 - Reinforcement Learning
+
+### [Upper Confidence Bound (UCB)]()
+
+
+### [Thompson Sampling]()
