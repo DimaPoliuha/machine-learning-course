@@ -3,9 +3,8 @@
 All you need to know about Machine Learning [link](https://vas3k.ru/blog/machine_learning/)
 
 # Part 1 - Data Preprocessing
-#### Explanation: [photo](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%201%20-%20Data%20Preprocessing/data_preprocessing.jpg), [videos](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683408)
 
-[Code Template](https://github.com/DmitryPoliuha/ml-course/blob/master/Part%201%20-%20Data%20Preprocessing/data_preprocessing_template.py)
+## [Data Preprocessiong](https://github.com/DmitryPoliuha/machine-learning-course/blob/master/Part%201%20-%20Data%20Preprocessing/Data%20Preprocessing%20Template.ipynb)
 
 
 
