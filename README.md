@@ -79,4 +79,9 @@ All you need to know about Machine Learning [link (russian)](https://vas3k.ru/bl
 ### [Upper Confidence Bound (UCB)](https://github.com/DmitryPoliuha/machine-learning-course/blob/master/Part%206%20-%20Reinforcement%20Learning/Upper%20Confidence%20Bound%20(UCB)/Upper%20Confidence%20Bound%20(UCB).ipynb)
 
 
-### [Thompson Sampling]()
+### [Thompson Sampling](https://github.com/DmitryPoliuha/machine-learning-course/blob/master/Part%206%20-%20Reinforcement%20Learning/Thompson%20Sampling/Thompson%20Sampling.ipynb)
+
+
+
+# Part 7 - Natural Language Processing
+### [Natural Language Processing]()
