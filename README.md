@@ -84,4 +84,4 @@ All you need to know about Machine Learning [link (russian)](https://vas3k.ru/bl
 
 
 # Part 7 - Natural Language Processing
-### [Natural Language Processing]()
+### [Natural Language Processing](https://github.com/DmitryPoliuha/machine-learning-course/blob/master/Part%207%20-%20Natural%20Language%20Processing/Natural%20Language%20Processing.ipynb)
